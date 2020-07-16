@@ -1,1 +1,1 @@
-Welcome to Git hub
+Welcome to Git hub. In next video we will learn commit,push etc.
